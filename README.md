@@ -1,3 +1,3 @@
 HTML-CSS-JS-GSAP ile yapılmış örnek sayfadır
 
-![Screenshot](./ss1.png)(https://vercel.com/can-kanburs-projects/slider-scrolltrigger-sample)
+![Screenshot](./ss1.png)(https://svg-gsap-motion-sample.vercel.app/)
